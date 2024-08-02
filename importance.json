@@ -1,0 +1,6 @@
+{
+  "importance": {
+    "0.0.1": "low",
+    "0.0.2": "critical"
+  }
+}
