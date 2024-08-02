@@ -1,4 +1,6 @@
 {
-    "currentVersion": "0.0.1",
-    "ImportanceUpdates": "Очень важное"
+    "versionInfo": {
+        "currentVersion": "0.0.1",
+        "ImportanceUpdates": "Очень важное"
+    }
 }
