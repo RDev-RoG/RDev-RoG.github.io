@@ -1,6 +1,5 @@
 {
-    "versionInfo": {
-        "currentVersion": "0.0.1",
-        "ImportanceUpdates": "Очень важное"
-    }
+  "tag_name": "0.0.2",
+  "name": "Release Name",
+  "body": "Release description.",
 }
